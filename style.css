@@ -1,0 +1,31 @@
+html{
+    font-family: 'Bona Nova', serif;
+    margin: 0;
+}
+h1{
+    font-size: 70px;
+}
+.tomato-color{
+    color: tomato;
+}
+h3{
+    font-size: 25px;
+}
+.top-banner{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( tomato , red);
+    color: white;
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-weight: 700;
+}
